@@ -3,9 +3,6 @@
 
  1. publish your local Repositroy online to /*Github*/
 
-<<<<<<< HEAD
-# I write code here 
-=======
 
  //Now let's work
  
@@ -20,4 +17,3 @@
 
  # 6.   
 
->>>>>>> write_steps_of_github
