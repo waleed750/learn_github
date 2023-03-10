@@ -3,4 +3,21 @@
 
  1. publish your local Repositroy online to /*Github*/
 
+<<<<<<< HEAD
 # I write code here 
+=======
+
+ //Now let's work
+ 
+ # 1. checkout master or main branch
+ # 2. update or Fetch 
+
+ # 3. create Branch 
+
+ # 4. Code....
+
+ # 5.commit....
+
+ # 6.   
+
+>>>>>>> write_steps_of_github
